@@ -1,4 +1,4 @@
-package com.po.api_gateway;
+package com.po.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
